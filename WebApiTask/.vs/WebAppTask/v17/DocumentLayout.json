@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mucah\\source\\repos\\WebApiTask\\WebApiTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05782112-8370-42D2-9FB9-B351FA6BF8AA}|WebApiTask.API\\WebAppTask.API.csproj|c:\\users\\mucah\\source\\repos\\webapitask\\webapitask\\webapitask.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05782112-8370-42D2-9FB9-B351FA6BF8AA}|WebApiTask.API\\WebAppTask.API.csproj|solutionrelative:webapitask.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFCF083-0F8B-480D-9C32-7444BC5326A8}|WebAppTask.ConsoleApp\\WebAppTask.ConsoleApp.csproj|c:\\users\\mucah\\source\\repos\\webapitask\\webapitask\\webapptask.consoleapp\\webapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DFCF083-0F8B-480D-9C32-7444BC5326A8}|WebAppTask.ConsoleApp\\WebAppTask.ConsoleApp.csproj|solutionrelative:webapptask.consoleapp\\webapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05782112-8370-42D2-9FB9-B351FA6BF8AA}|WebApiTask.API\\WebAppTask.API.csproj|c:\\users\\mucah\\source\\repos\\webapitask\\webapitask\\webapitask.api\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05782112-8370-42D2-9FB9-B351FA6BF8AA}|WebApiTask.API\\WebAppTask.API.csproj|solutionrelative:webapitask.api\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFCF083-0F8B-480D-9C32-7444BC5326A8}|WebAppTask.ConsoleApp\\WebAppTask.ConsoleApp.csproj|c:\\users\\mucah\\source\\repos\\webapitask\\webapitask\\webapptask.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DFCF083-0F8B-480D-9C32-7444BC5326A8}|WebAppTask.ConsoleApp\\WebAppTask.ConsoleApp.csproj|solutionrelative:webapptask.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mucah\\source\\repos\\WebApiTask\\WebApiTask\\WebApiTask.API\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiTask.API\\Program.cs",
+              "ToolTip": "C:\\Users\\mucah\\source\\repos\\WebApiTask\\WebApiTask\\WebApiTask.API\\Program.cs",
+              "RelativeToolTip": "WebApiTask.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T20:38:31.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\mucah\\source\\repos\\WebApiTask\\WebApiTask\\WebAppTask.ConsoleApp\\WebApiClient.cs",
+              "RelativeDocumentMoniker": "WebAppTask.ConsoleApp\\WebApiClient.cs",
+              "ToolTip": "C:\\Users\\mucah\\source\\repos\\WebApiTask\\WebApiTask\\WebAppTask.ConsoleApp\\WebApiClient.cs",
+              "RelativeToolTip": "WebAppTask.ConsoleApp\\WebApiClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T20:21:36.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\mucah\\source\\repos\\WebApiTask\\WebApiTask\\WebApiTask.API\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "WebApiTask.API\\Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\mucah\\source\\repos\\WebApiTask\\WebApiTask\\WebApiTask.API\\Controllers\\TestController.cs",
+              "RelativeToolTip": "WebApiTask.API\\Controllers\\TestController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T20:12:41.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mucah\\source\\repos\\WebApiTask\\WebApiTask\\WebAppTask.ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "WebAppTask.ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\mucah\\source\\repos\\WebApiTask\\WebApiTask\\WebAppTask.ConsoleApp\\Program.cs",
+              "RelativeToolTip": "WebAppTask.ConsoleApp\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwCkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T20:11:00.013Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

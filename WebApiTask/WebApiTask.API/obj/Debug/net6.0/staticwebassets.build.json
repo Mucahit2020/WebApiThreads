@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5goOYNlJKgQ54cGUDU8px3/CgpKkKsjKqdo3gt3/dvw=",
+  "Source": "WebAppTask.API",
+  "BasePath": "_content/WebAppTask.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

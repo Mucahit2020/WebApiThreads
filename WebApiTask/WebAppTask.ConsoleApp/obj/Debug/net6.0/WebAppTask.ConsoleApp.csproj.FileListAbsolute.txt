@@ -1,0 +1,14 @@
+C:\Users\mucah\source\repos\WebApiTask\WebApiTask\WebAppTask.ConsoleApp\bin\Debug\net6.0\WebAppTask.ConsoleApp.exe
+C:\Users\mucah\source\repos\WebApiTask\WebApiTask\WebAppTask.ConsoleApp\bin\Debug\net6.0\WebAppTask.ConsoleApp.deps.json
+C:\Users\mucah\source\repos\WebApiTask\WebApiTask\WebAppTask.ConsoleApp\bin\Debug\net6.0\WebAppTask.ConsoleApp.runtimeconfig.json
+C:\Users\mucah\source\repos\WebApiTask\WebApiTask\WebAppTask.ConsoleApp\bin\Debug\net6.0\WebAppTask.ConsoleApp.dll
+C:\Users\mucah\source\repos\WebApiTask\WebApiTask\WebAppTask.ConsoleApp\bin\Debug\net6.0\WebAppTask.ConsoleApp.pdb
+C:\Users\mucah\source\repos\WebApiTask\WebApiTask\WebAppTask.ConsoleApp\obj\Debug\net6.0\WebAppTask.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mucah\source\repos\WebApiTask\WebApiTask\WebAppTask.ConsoleApp\obj\Debug\net6.0\WebAppTask.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\mucah\source\repos\WebApiTask\WebApiTask\WebAppTask.ConsoleApp\obj\Debug\net6.0\WebAppTask.ConsoleApp.AssemblyInfo.cs
+C:\Users\mucah\source\repos\WebApiTask\WebApiTask\WebAppTask.ConsoleApp\obj\Debug\net6.0\WebAppTask.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\mucah\source\repos\WebApiTask\WebApiTask\WebAppTask.ConsoleApp\obj\Debug\net6.0\WebAppTask.ConsoleApp.dll
+C:\Users\mucah\source\repos\WebApiTask\WebApiTask\WebAppTask.ConsoleApp\obj\Debug\net6.0\refint\WebAppTask.ConsoleApp.dll
+C:\Users\mucah\source\repos\WebApiTask\WebApiTask\WebAppTask.ConsoleApp\obj\Debug\net6.0\WebAppTask.ConsoleApp.pdb
+C:\Users\mucah\source\repos\WebApiTask\WebApiTask\WebAppTask.ConsoleApp\obj\Debug\net6.0\WebAppTask.ConsoleApp.genruntimeconfig.cache
+C:\Users\mucah\source\repos\WebApiTask\WebApiTask\WebAppTask.ConsoleApp\obj\Debug\net6.0\ref\WebAppTask.ConsoleApp.dll
